@@ -1,0 +1,21 @@
+{
+  "name": "NodeProteusExample",
+  "version": "0.0.0",
+  "description": "Getting started with Johnny-Five and Proteus",
+  "main": "app.js",
+  "dependencies": {
+    "johnny-five": "~0.7.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "arduino",
+    "johnny-five",
+    "proteus",
+    "com0com",
+    "simulation"
+  ]
+}
